@@ -1,4 +1,4 @@
-# Socket_basics
+# Networking_basics
 learning networking in python
 
 wish list 
